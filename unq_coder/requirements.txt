@@ -22,7 +22,6 @@ pylint==2.6.0
 PyMsgBox==1.0.9
 pynput==1.7.3
 pyperclip==1.8.2
-pypiwin32==223
 PyRect==0.1.4
 PyScreeze==0.1.26
 pyttsx3==2.90
